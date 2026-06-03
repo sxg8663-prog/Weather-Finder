@@ -1,5 +1,3 @@
-
-
 ### Weather App
 In this we use a weather api and we get data from api❗️
 
